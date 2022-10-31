@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium Web');
+*{
+    font-family: 'Open Sans', monospace;
+}
+span{
+    font-family: "Rubik","Trebuchet MS","Georgia"!important;
+}
+h1{
+    display:flex;
+    margin:auto;
+    text-align: center;
+    font-size:4em;
+    color: rgb(225,121,113);
+    font-weight: 900;
+    width:fit-content;
+    background-color:#EEFFEA;
+    border: 5px solid #410076;
+    border-radius:10px;
+}
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.container{
+    margin:auto;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.MusclesBorder{
+    display:flex;
+    align-items:center;
+    position: relative;
+    margin: auto;
+    width: 35em;
+    height: 49em;
+    border: 5px solid #410076;
+    background-color: #EEFFEA!important;
+    overflow-y: hidden;
+}
+svg {
+    pointer-events: none;
+}
+
+g{
+    pointer-events: visible;
+}
+
+.TextBox{
+    position: absolute;
+    padding-right: 20px;
+    overflow: clipped;
+}
+
+.inTextBox{
+    border: 5px solid #410076;
+    background-color:#fee8e1;
+    padding: 0px;
+}
+
+.img-fluid{
+    z-index: 1;
+    background-color: transparent;
+}
+
+.img-fluid:hover{
+    filter: invert(100%) hue-rotate(-70deg);
+    z-index: 100;
+}
+
+.template {
+    filter: drop-shadow(0px 0px 5px black);
+    z-index: 0;
+}
+
+.SideButtonContainer{
+    display: flex;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    align-items: center;
+    justify-content: center;
+}
+
+.SideButton{
+    display: flex;
+    background-color: #EEFFEA;
+    padding: 5px 5px 5px 5px;
+    border: 5px solid #410076;
+    color:#197278;
+    margin: 3px 3px 3px 3px;
+    border-radius: 10px;
+}
+
+.SideButton.clicked{
+    background-color: #197278;
+    border: 5px solid #410076;
+    color: #EEFFEA;
+    transition: background-color .4s ease, color .4s ease, background-color .4s ease;
+    cursor: auto!important;
+}
+
+.SideButton:hover{
+    cursor: pointer;
+}
+
+h4 {
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+}
+
+.TextText{
+    background-color: transparent;
+    font-family: 'Open Sans'!important;
+}
+
+h2.TextText{
+    text-align: center;
+    font-size:2.5em;
+    margin: 0px;
+    color: #197278;
+    background-color:#fee8e1;
+    margin-top:20px;
+}
+
+h3.TextText{
+    margin: 0px;
+    text-align:center;
+    color: #197278;
+    background-color: #fee8e1;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.content{
+    margin: 0px 0px 5px 0px;
+    padding: 20px;
+    background-color: #fee8e1;
+    border: 5px solid #410076;
+    border-radius: 20px;
+}
+
+.title{
+    display: flex;
+    margin: 0px 0px 10px 0px;
+    background-color: #fee8e1;
+    width:100%;
+    flex-shrink:0;
+    border-bottom:3.5px solid #410076;
+    padding-bottom:5px;
+    padding-top: 5px;
+}
+
+button.X{
+    display:flex;
+    position: absolute;
+    right: 25px;
+    border-radius: 0;
+    width:20px;
+    height: 20px;
+    color:#410076;
+}
+
+button.X:hover{
+    background-color: rgb(236, 0, 0);
+    color:white;
+}
+
+button.X:active{
+    background-color: rgb(164, 0, 0);
+    color:white;
+}
+
+.center{
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    align-content: center;
+}
