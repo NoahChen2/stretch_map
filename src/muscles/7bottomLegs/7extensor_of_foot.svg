@@ -1,0 +1,18 @@
+<svg class="img-fluid" id="outputsvg" xmlns="http://www.w3.org/2000/svg" style="transform: none; transform-origin: 50% 50% 0px; cursor: move; transition: none 0s ease 0s;" width="137" height="41" viewBox="0 0 1370 410">
+    <g id="l5ZChUI9CfSqM5PWz0MoDPq" fill="rgb(0,0,0)" style="transform: none;">
+        <g style="transform: none;">
+            <path id="pezoDjMwJ" d="M12 398 c-18 -18 -15 -209 4 -279 14 -50 19 -57 40 -55 13 0 24 4 24 7 0 17 53 -6 60 -27 20 -51 79 -54 104 -5 25 47 47 151 44 204 -3 44 -7 53 -33 68 -41 24 -44 23 -61 -13 l-14 -33 4 32 c3 27 -1 37 -27 59 -18 15 -38 23 -49 21 -11 -3 -22 2 -28 14 -12 21 -50 25 -68 7z"></path>
+            <path id="p14kk4R00q" d="M1290 391 c-6 -12 -17 -17 -28 -14 -11 2 -31 -6 -49 -21 -26 -22 -30 -32 -27 -59 l4 -32 -14 33 c-17 36 -20 37 -61 13 -26 -15 -30 -24 -33 -68 -3 -53 19 -157 44 -204 25 -49 84 -46 104 5 7 21 60 44 60 27 0 -3 11 -7 24 -7 21 -2 26 5 40 55 19 70 22 261 4 279 -18 18 -56 14 -68 -7z"></path>
+        </g>
+    </g>
+    <g id="l6B21J3xZzChRLYQYCEhObz" fill="rgb(216,124,117)" style="transform: none;">
+        <g style="transform: none;">
+            <path id="p13S10o1ir" d="M32 265 c3 -59 11 -112 17 -118 9 -9 11 17 9 102 -2 87 -6 115 -17 119 -12 4 -13 -13 -9 -103z"></path>
+            <path id="p17O4KsTu6" d="M1317 363 c-4 -3 -7 -56 -7 -117 0 -144 20 -131 27 18 5 98 1 121 -20 99z"></path>
+            <path id="p8S7jtqBv" d="M116 322 c-3 -5 -2 -42 1 -83 l7 -74 12 65 c7 36 10 73 8 83 -6 18 -19 23 -28 9z"></path>
+            <path id="pMckvhkHz" d="M1227 313 c-3 -10 0 -47 8 -83 l13 -65 3 53 c5 93 4 105 -8 109 -6 2 -14 -4 -16 -14z"></path>
+            <path id="p4mXShSjZ" d="M200 176 c-22 -96 -23 -127 -4 -133 15 -5 29 30 49 120 18 81 16 107 -9 107 -10 0 -21 -28 -36 -94z"></path>
+            <path id="p1Cm8MJns6" d="M1114 255 c-7 -16 22 -155 39 -192 12 -26 30 -25 35 2 2 9 -6 60 -18 111 -15 66 -26 94 -36 94 -8 0 -17 -7 -20 -15z"></path>
+        </g>
+    </g>
+</svg>
