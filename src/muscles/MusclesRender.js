@@ -365,7 +365,7 @@ const MusclesRender = (props) => {
                     webLink={item["webLink"]}
                     pic={item["picSrc"]} handleClick={childClick} />
             ))}
-            <BackTemplate style={fSide ? { opacity: "0%" } : { opacity: "100%" }} />
+            <BackTemplate style={fSide ? { opacity: "0%" } : { opacity: "100%", bottom:"0%", height:"99.5%" }} />
         </div>
         );
     }
