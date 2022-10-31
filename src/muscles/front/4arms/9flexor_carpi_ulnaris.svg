@@ -1,0 +1,8 @@
+<svg class="img-fluid" id="outputsvg" xmlns="http://www.w3.org/2000/svg" style="transform: none; transform-origin: 50% 50% 0px; cursor: move; transition: none 0s ease 0s;" width="407" height="139" viewBox="0 0 4070 1390">
+    <g id="l5YCwfw2jebsB2SeqTvQDu5" fill="rgb(0,0,0)" style="transform: none;">
+        <g style="transform: none;">
+            <path id="ppXP0bpfQ" d="M38 1374 c-15 -8 -30 -25 -34 -38 -8 -35 62 -324 118 -481 27 -77 65 -184 84 -237 48 -133 64 -228 64 -372 l0 -122 50 -49 c28 -27 50 -55 50 -62 0 -8 13 -13 35 -13 46 0 49 16 42 204 -10 241 -52 424 -162 712 -64 165 -200 467 -212 471 -4 1 -20 -5 -35 -13z"></path>
+            <path id="pjUTKhKBf" d="M3965 1333 c-180 -388 -281 -670 -321 -893 -17 -96 -31 -373 -20 -413 5 -23 12 -27 41 -27 22 0 35 5 35 13 0 7 23 35 50 62 l50 49 0 122 c0 144 16 239 64 372 19 53 57 160 84 237 56 158 126 446 118 482 -5 18 -50 53 -70 53 -2 0 -17 -26 -31 -57z"></path>
+        </g>
+    </g>
+</svg>

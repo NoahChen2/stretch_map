@@ -1,0 +1,14 @@
+<svg class="img-fluid" id="outputsvg" xmlns="http://www.w3.org/2000/svg" style="transform: none; transform-origin: 50% 50% 0px; cursor: move; transition: none 0s ease 0s;" width="631" height="30" viewBox="0 0 6310 300">
+    <g id="l4mNTDyGKEy6YPOGI6Acqar" fill="rgb(0,0,0)" style="transform: none;">
+        <g>
+            <path id="pLUxyKWV0" d="M50 291 c-39 -5 -45 -9 -45 -30 0 -21 11 -27 105 -57 128 -42 243 -97 330 -158 56 -39 67 -43 79 -31 12 12 9 21 -18 63 -72 113 -182 188 -306 211 -62 12 -72 12 -145 2z"></path>
+            <path id="p9GjZm9LV" d="M6107 289 c-117 -23 -229 -103 -298 -211 -27 -42 -30 -51 -18 -63 12 -12 23 -8 79 31 87 61 202 116 330 158 73 24 106 39 108 51 2 9 0 21 -5 25 -14 13 -145 19 -196 9z"></path>
+        </g>
+    </g>
+    <g id="l70YLhzy99I8UEh2hnZwuwN" fill="rgb(225,121,113)" style="transform: none;">
+        <g>
+            <path id="pvXPqsRsi" d="M170 222 c108 -40 167 -67 233 -109 51 -32 47 -14 -9 37 -69 64 -161 102 -253 107 l-76 4 105 -39z"></path>
+            <path id="py9110uzo" d="M6085 246 c-64 -20 -124 -54 -171 -98 -54 -50 -57 -66 -6 -35 66 42 125 70 232 108 l105 38 -60 0 c-33 0 -78 -6 -100 -13z"></path>
+        </g>
+    </g>
+</svg>
