@@ -1,0 +1,8 @@
+<svg class="img-fluid" id="outputsvg" xmlns="http://www.w3.org/2000/svg" style="transform: matrix(1, 0, 0, 1, 0, -1); transform-origin: 50% 50% 0px; cursor: move; transition: none 0s ease 0s;" width="301" height="27" viewBox="0 0 3010 270">
+    <g id="l7Yjixw3sGVBknfrrcVY1rk" fill="rgb(0,0,0)" style="transform: none;">
+        <g>
+            <path id="pbIRBLwTG" d="M220 256 c-60 -17 -106 -41 -158 -83 -61 -50 -70 -70 -41 -99 13 -12 45 -33 70 -47 45 -23 47 -24 81 -6 19 10 64 49 100 88 65 68 66 70 57 108 -5 21 -9 41 -9 46 0 10 -48 7 -100 -7z"></path>
+            <path id="p1FSGulaNQ" d="M2690 263 c0 -5 -4 -25 -9 -46 -9 -38 -8 -40 57 -108 36 -39 81 -78 100 -88 34 -18 36 -17 81 6 25 14 57 35 70 47 19 19 21 27 12 44 -14 26 -84 84 -131 107 -64 33 -180 57 -180 38z"></path>
+        </g>
+    </g>
+</svg>
